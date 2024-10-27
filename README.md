@@ -2,7 +2,7 @@
 
 ## **👋 Pratham Jain - Data Scientist & AI Enthusiast**
 
-[Profile Views](https://komarev.com/ghpvc/?username=Pratham-Jain-3903&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Pratham-Jain-3903&color=brightgreen&style=flat-square)
 
 Welcome to my GitHub profile! I’m Pratham Jain, a dedicated Data Scientist with a strong foundation in data engineering, machine learning, and AI-driven solutions. My work is centered around transforming data into actionable insights that drive business growth and innovation. Browse through my projects and see my approach to tackling real-world problems using data science and engineering.
 
@@ -83,9 +83,19 @@ I'm a Software Engineer and Data Scientist with a passion for using technology t
 - **Data Access Solution:** Built a MongoDB-backed access portal, streamlining patient data retrieval for healthcare providers.
 
 ### **Research Assistant**
-**Bosch Global Software Technologies** 
-- **AI-Driven HVAC Optimization for Bosch Global Software:** Implemented a real-time AI data pipeline, achieving 15.5% energy savings.
-- **AI-Powered Breast Cancer Screening (Multimodal System):** Integrated radiology, pathology, and historical data to reach 96.8% accuracy.
+**Bosch Global Software Technologies HVAC Systems - AI-Driven HVAC Efficiency Optimization**
+**Mar 2024 – Nov 2024**  
+- Designed and implemented a real-time data pipeline for AI models, focusing on energy, fuel, and electricity consumption in HVAC systems.
+- Conducted data wrangling and warehousing of IoT signals to support AI-driven insights.
+- Conducted regular peer reviews of AI models to ensure accuracy and compliance with internal standards, iterating on feedback to continuously improve performance, and deployed the solution on NXT families, enhancing HVAC system efficiency through edge computing and advanced data analysis.
+- Utilized A/B testing and other advanced experimentation methods and niche algorithms to deliver a 15.5% increase in energy savings through improved model performance.
+
+**Bosch Global Software Technologies & Medical Institutions - Multimodal AI-Powered Breast Cancer Screening System Using Radiology, Pathology, and Medical History**  
+**Jan 2024 – Nov 2024**  
+- Spearheaded a pioneering research initiative to develop a world-first interdisciplinary multimodal screening system, achieving an 80% reduction in second screening time.
+- Integrated and tested mammogram and pathology-based approaches for accurate diagnoses, achieving 96.8% accuracy (*p* < 0.05), and optimized testing recommendations.
+- Trained and validated a system using an FNAC diagnosis dataset of 500+ images from Raichur medical institutions, achieving 97.02% accuracy, and deployed it for real-time effectiveness on Indian patients through verification camps.
+
 
 ---
 
@@ -100,28 +110,8 @@ I'm a Software Engineer and Data Scientist with a passion for using technology t
 
 ## Recent Blog Posts
 
-### [BAH24 Using  Lomb-Scargle periodograms to calculate the pulsar’s rotation periods](https://www.linkedin.com/posts/pratham-jain-56682620a_bhartiyaantarikshhackathon-datascience-astrophysics-activity-7247285665808211970-DhPa?utm_source=share&utm_medium=member_desktop)
-> Our challenge involved analyzing the complex spin-down behavior of the Crab Pulsar. We utilized Astropy, NumPy, and Matplotlib to process AstroSat data, implementing techniques like:
-
-- Lomb-Scargle periodograms to calculate the pulsar’s rotation periods.
-- Barycentric correction to ensure accurate measurement by accounting for Earth's motion.
-- Regression models and Splines to uncover trends in the pulsar's rotation over the years.
-
----
-
-### [Optimizing Data Pipelines for Scale](https://www.linkedin.com/posts/pratham-jain-56682620a_optimizing-data-pipelines-activity-987654321/)
-> In this post, I share techniques for building scalable data pipelines and common bottlenecks to avoid.
-
----
-
-### [Leveraging Python for Big Data Analytics](https://www.linkedin.com/posts/pratham-jain-56682620a_python-big-data-activity-135792468/)
-> Discover how Python and its libraries can transform your approach to big data analytics. Practical examples included!
-
----
-
-### [Data Visualization Best Practices](https://www.linkedin.com/posts/pratham-jain-56682620a_data-visualization-best-practices-activity-2468101214/)
-> Effective data visualization tips to make your data insights clear and compelling.
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 Thank you for exploring my GitHub profile! Feel free to check out my repositories and reach out if you'd like to collaborate on projects or discuss data science and engineering solutions.
 
