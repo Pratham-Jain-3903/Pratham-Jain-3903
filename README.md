@@ -26,7 +26,7 @@ I'm a Software Engineer and Data Scientist with a passion for using technology t
 ## **🏆 Achievements**
 
 - **Amazon ML Challenge 2024:** Ranked 84 / 74,830
-- **Luminous TechnoX 2024** Finalist
+- **Luminous TechnoX 2024** First Runner Up (Rank 2/ 9600 teams)
 - **Flipkart Grid 6.0:** Level 2 in Robotic Track &  SDE Track
 - **AWS DeepRacer Competition (Asia-Pacific 2023):** Top 20
 - **Numerai Competition:** Top 8% consistently
