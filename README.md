@@ -76,25 +76,14 @@ I'm a Software Engineer and Data Scientist with a passion for using technology t
 
 ## **📝 Experience Highlights**
 
-### **Data Engineer**
-**R&D Department, Luminous India (Schneider Electric Group)**
+### **Data Engineer**  
+**R&D Department, Luminous India (Schneider Electric Group)**  
+*Feb 2025 – Aug 2025*  
 
-*Feb 2025 – Aug 2025*
-
-● Deployed and optimised APIs on serverless Azure Functions and VMWare AI Foundry instances using
-PM2, and engineered a backend pipeline with Gunicorn, Postman, and Azure Virtual Machines to process
-user queries from mobile Customer Support systems ensuring high scalability, low latency, and seamless
-interactions for the Cache Augmented Generative (CAG) chatbot.
-● Integrated guardrailing and validator agents were deployed to inspect and sanitize API responses,
-effectively mitigating prompt and SQL injection vulnerabilities.
-● Developed a Local-First architecture with an in-memory database synchronised via an event-driven
-backend to Azure CosmosDB, reducing query latency by 78% for 10K customers alongside peripheral
-APIs for real-time document updates and automated reindexing in the vector store, updating KVQ cache
-ensuring accurate and efficient retrieval within the CAG framework.
-● Created adaptive AI agents that dynamically adjust token limits and built specialized agents and
-orchestrated them to handle queries for both Luminous and Amaze delivering tailored responses and
-enhanced user satisfaction at 30% lower cost, 7% increase in customer satisfaction and 88% reduction
-in delays.
+- **API Deployment & Optimization:** Deployed and optimized APIs on **serverless Azure Functions** and **VMWare AI Foundry** instances using **PM2**. Engineered a backend pipeline with **Gunicorn, Postman, and Azure Virtual Machines** to process user queries from mobile **Customer Support** systems, ensuring **high scalability, low latency, and seamless interactions** for the **Cache Augmented Generative (CAG) chatbot**.  
+- **Security & Guardrailing:** Integrated **guardrailing and validator agents** to inspect and sanitize API responses, effectively mitigating **prompt and SQL injection vulnerabilities**.  
+- **Local-First Architecture:** Designed a **Local-First architecture** with an **in-memory database** synchronized via an **event-driven backend to Azure CosmosDB**, reducing query latency by **78% for 10K customers**. Developed **peripheral APIs** for real-time document updates and automated reindexing in the **vector store**, ensuring accurate and efficient retrieval within the **CAG framework**.  
+- **AI Agent Orchestration:** Built **adaptive AI agents** that dynamically adjust **token limits** and orchestrated specialized agents to handle queries for both **Luminous and Amaze**, delivering **tailored responses** at **30% lower cost, a 7% increase in customer satisfaction, and an 88% reduction in delays**.
 
 ### **Data Engineer**
 **Raichur Institute of Medical Sciences**  
