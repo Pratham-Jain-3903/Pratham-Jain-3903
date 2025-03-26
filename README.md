@@ -78,7 +78,9 @@ I'm a Software Engineer and Data Scientist with a passion for using technology t
 
 ### **Data Engineer**
 **R&D Department, Luminous India (Schneider Electric Group)**
+
 *Feb 2025 – Aug 2025*
+
 ● Deployed and optimised APIs on serverless Azure Functions and VMWare AI Foundry instances using
 PM2, and engineered a backend pipeline with Gunicorn, Postman, and Azure Virtual Machines to process
 user queries from mobile Customer Support systems ensuring high scalability, low latency, and seamless
