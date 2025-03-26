@@ -77,6 +77,24 @@ I'm a Software Engineer and Data Scientist with a passion for using technology t
 ## **📝 Experience Highlights**
 
 ### **Data Engineer**
+**R&D Department, Luminous India (Schneider Electric Group)**
+*Feb 2025 – Aug 2025*
+● Deployed and optimised APIs on serverless Azure Functions and VMWare AI Foundry instances using
+PM2, and engineered a backend pipeline with Gunicorn, Postman, and Azure Virtual Machines to process
+user queries from mobile Customer Support systems ensuring high scalability, low latency, and seamless
+interactions for the Cache Augmented Generative (CAG) chatbot.
+● Integrated guardrailing and validator agents were deployed to inspect and sanitize API responses,
+effectively mitigating prompt and SQL injection vulnerabilities.
+● Developed a Local-First architecture with an in-memory database synchronised via an event-driven
+backend to Azure CosmosDB, reducing query latency by 78% for 10K customers alongside peripheral
+APIs for real-time document updates and automated reindexing in the vector store, updating KVQ cache
+ensuring accurate and efficient retrieval within the CAG framework.
+● Created adaptive AI agents that dynamically adjust token limits and built specialized agents and
+orchestrated them to handle queries for both Luminous and Amaze delivering tailored responses and
+enhanced user satisfaction at 30% lower cost, 7% increase in customer satisfaction and 88% reduction
+in delays.
+
+### **Data Engineer**
 **Raichur Institute of Medical Sciences**  
 *Aug 2024 – Present*
 - **Hybrid Cloud Storage Management:** Optimized patient record storage for 2,000+ patients yearly using AWS S3 & EC2.
@@ -84,18 +102,23 @@ I'm a Software Engineer and Data Scientist with a passion for using technology t
 
 ### **Research Assistant**
 **Bosch Global Software Technologies HVAC Systems - AI-Driven HVAC Efficiency Optimization**
-**Mar 2024 – Nov 2024**  
-- Designed and implemented a real-time data pipeline for AI models, focusing on energy, fuel, and electricity consumption in HVAC systems.
-- Conducted data wrangling and warehousing of IoT signals to support AI-driven insights.
-- Conducted regular peer reviews of AI models to ensure accuracy and compliance with internal standards, iterating on feedback to continuously improve performance, and deployed the solution on NXT families, enhancing HVAC system efficiency through edge computing and advanced data analysis.
-- Utilized A/B testing and other advanced experimentation methods and niche algorithms to deliver a 15.5% increase in energy savings through improved model performance.
+**Mar 2024 – Mar 2025**  
+●Developed scalable software solutions for real-time data pipelines in HVAC systems using Python,
+processing 300+GB of IoT signals.
+● Engineered distributed fault-tolerant systems for STM32 microcontrollers, enhancing real-time processing
+and system reliability.
+● Deployed solutions on AWS (S3, EC2, Lambda), ensuring seamless access and optimized resource
+management.
+● Increased energy savings by 15.5% (p<0.00003) through improved model performance and system
+optimization.
 
 **Bosch Global Software Technologies & Medical Institutions - Multimodal AI-Powered Breast Cancer Screening System Using Radiology, Pathology, and Medical History**  
 **Jan 2024 – Nov 2024**  
-- Spearheaded a pioneering research initiative to develop a world-first interdisciplinary multimodal screening system, achieving an 80% reduction in second screening time.
-- Integrated and tested mammogram and pathology-based approaches for accurate diagnoses, achieving 96.8% accuracy (*p* < 0.05), and optimized testing recommendations.
-- Trained and validated a system using an FNAC diagnosis dataset of 500+ images from Raichur medical institutions, achieving 97.02% accuracy, and deployed it for real-time effectiveness on Indian patients through verification camps.
-
+●Designed and deployed a distributed backend architecture on AWS EC2 for a multimodal screening system,
+achieving a 96.8% diagnostic accuracy (p<0.05).
+● Implemented APIs for real-time data ingestion and integration with Dockerized services, enabling scalable
+production deployments.
+● Conducted system validation on FNAC datasets with 500+ medical images, achieving 97.02% accuracy.
 
 ---
 
