@@ -1,6 +1,6 @@
 ---
 
-## **👋 Pratham Jain - Data Scientist & AI Enthusiast**
+## **👋 Pratham Jain - Data Engineer/ SWE - AI and Data**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pratham-Jain-3903&color=brightgreen&style=flat-square)
 
