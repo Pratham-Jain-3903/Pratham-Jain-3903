@@ -74,40 +74,34 @@ I'm a Software Engineer and Data Scientist with a passion for using technology t
 
 ---
 
-## **📝 Experience Highlights**
+## **📝 Experience**
 
-### **Data Engineer**  
-**R&D Department, Luminous India (Schneider Electric Group)**  
-*Feb 2025 – Aug 2025*  
+### **Data Engineering Intern — R&D**  
+**Luminous Power Technologies (Schneider Electric Group)**  
+*Feb 2025 – Present*  
 
-- **API Deployment & Optimization:** Deployed and optimized APIs on **serverless Azure Functions** and **VMWare AI Foundry** instances using **PM2**. Engineered a backend pipeline with **Gunicorn, Postman, and Azure Virtual Machines** to process user queries from mobile **Customer Support** systems, ensuring **high scalability, low latency, and seamless interactions** for the **Cache Augmented Generative (CAG) chatbot**.  
-- **Security & Guardrailing:** Integrated **guardrailing and validator agents** to inspect and sanitize API responses, effectively mitigating **prompt and SQL injection vulnerabilities**.  
-- **Local-First Architecture:** Designed a **Local-First architecture** with an **in-memory database** synchronized via an **event-driven backend to Azure CosmosDB**, reducing query latency by **78% for 10K customers**. Developed **peripheral APIs** for real-time document updates and automated reindexing in the **vector store**, ensuring accurate and efficient retrieval within the **CAG framework**.  
-- **AI Agent Orchestration:** Built **adaptive AI agents** that dynamically adjust **token limits** and orchestrated specialized agents to handle queries for both **Luminous and Amaze**, delivering **tailored responses** at **30% lower cost, a 7% increase in customer satisfaction, and an 88% reduction in delays**.  
+- Migrated a **Java 8 aggregation cron** to **Azure Data Factory** and **Azure Batch ETL**. Used **12-hour micro-batches, repartitioning, and point reads** to deliver **14× faster queries** and **98% cost reduction**.
+- Built **deduplication and validation pipelines** with tracking IDs. Added **idempotent event handling** for **Event Hub** to avoid duplicates. Scaled notifications to **100K users (~5.1M/month)** via **Azure Notification Hub**.
+- Resolved a **thundering herd on Azure DPS**. Implemented **exponential backoff with jitter** and **idempotent retries**. Reduced provisioning time from **11.3 hours to 32 minutes**, cut retries by **99.8%**, and achieved **100% provisioning success** at scale.
+- Implemented **EL image semantic segmentation** for **24 defect classes** with **AMP and distributed training**; achieved **67% avg IoU**. Built a **physics-informed network** for **KPI extraction from IV curves** with **95% accuracy** and a **clustering-driven quality grader**.
+- Designed and deployed **adaptive-agent and LLM-backed cloud services** for **IoT analytics and support queries**. Deployed on **AKS with Redis caching** and **idempotent workflows**. Achieved **78% lower query latency, 88% faster responses, 30% cost savings**, and **7% higher customer satisfaction** for **10K+ users**.
 
-### **Data Engineer**  
-**Raichur Institute of Medical Sciences**  
-*Aug 2024 – Present*  
+### **Freelance Software Development Engineer**  
+**Neocfo.io**  
+*Feb 2025 – Apr 2025*  
 
-- **Hybrid Cloud Storage Management:** Optimized patient record storage for **2,000+ patients yearly** using **AWS S3 & EC2**.  
-- **Data Access Solution:** Built a **MongoDB-backed access portal**, streamlining patient data retrieval for healthcare providers.  
+- Built a **multi-agent backend** using **LangGraph and Amazon Lex** for **natural-language analysis**. Handled **2,000+ daily requests** for legal clients.
+- Designed **asynchronous APIs** and migrated from **AWS Lambda to EC2** to reduce operational costs by **40%** while keeping availability.
+- Implemented **ML pipelines** for **legal document analysis** and **natural-language querying** over structured legal data.
 
-### **Research Assistant**  
-**Bosch Global Software Technologies | HVAC Systems - AI-Driven HVAC Efficiency Optimization**  
-*Mar 2024 – Mar 2025*  
+### **Data Engineer & Applied Sciences Trainee**  
+**Bosch Global Software Technologies**  
+*Mar 2024 – Feb 2025*  
 
-- **Real-Time Data Pipelines:** Developed scalable software solutions for **real-time data pipelines** in HVAC systems using **Python**, processing **300+GB of IoT signals**.  
-- **Fault-Tolerant Systems:** Engineered **distributed fault-tolerant systems** for **STM32 microcontrollers**, enhancing **real-time processing and system reliability**.  
-- **Cloud Deployment:** Deployed solutions on **AWS (S3, EC2, Lambda)**, ensuring **seamless access and optimized resource management**.  
-- **Energy Optimization:** Increased **energy savings by 15.5% (p<0.00003)** through improved **model performance and system optimization**.  
-
-### **Research Assistant**  
-**Bosch Global Software Technologies & Medical Institutions | Multimodal AI-Powered Breast Cancer Screening System**  
-*Jan 2024 – Nov 2024*  
-
-- **Distributed Backend Architecture:** Designed and deployed a **distributed backend architecture** on **AWS EC2** for a **multimodal screening system**, achieving **96.8% diagnostic accuracy (p<0.05)**.  
-- **API & Docker Integration:** Implemented **APIs for real-time data ingestion** and **integration with Dockerized services**, enabling **scalable production deployments**.  
-- **System Validation:** Conducted **system validation** on **FNAC datasets with 500+ medical images**, achieving **97.02% accuracy**.
+- Trained **quantized and pruned TinyML models** on **300+ GB of IoT sensor data** for **HVAC systems**; delivered **15.5% energy savings** with statistical significance.
+- Built a **containerized distributed backend** for a **multimodal diagnostic platform**; achieved **96.8% diagnostic accuracy** on **500+ FNAC images**.
+- Engineered **fault-tolerant systems** for **STM32 microcontrollers** with **real-time response guarantees**.
+- Deployed services on **AWS (S3, Lambda, EC2)** with **containerized workloads** and **autoscaling**.
 
 ---
 
