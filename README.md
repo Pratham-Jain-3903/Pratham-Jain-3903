@@ -291,7 +291,7 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prathamjain.in-00FF00?style=for-the-badge)](https://prathamjain.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prathamjain.in-00FF00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://prathamjain.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratham_Jain-00CC00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/pratham-jain-56682620a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pratham--Jain--3903-00DD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Pratham-Jain-3903)
 [![Email](https://img.shields.io/badge/Email-prathamjain3903@gmail.com-00BB00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:prathamjain3903@gmail.com)
