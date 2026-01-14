@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Pratham Jain
+# Pratham Jain
 
 ### Backend Engineer • Data Systems Architect • AI/ML Engineer
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Backend systems engineer specializing in **distributed data platforms**, **cloud-native architectures**, and **production ML systems**. I build scalable services that process millions of events, optimize infrastructure costs, and ship reliable software. Published researcher in AI security and collaborative machine learning.
 
@@ -37,24 +37,24 @@ class Engineer:
 
 ---
 
-## 🎓 Education
+## Education
 
 <table>
 <tr>
 <td width="50%">
 
 **Indian Institute of Management Vishakhapatnam**  
-🎓 Masters of Business Administration (PGPMCI)  
-📊 SGPA: 4.0/4.0  
-📅 2025 – 2027
+- Masters of Business Administration (PGPMCI)  
+- SGPA: 4.0/4.0  
+- 2025 – 2027
 
 </td>
 <td width="50%">
 
 **Indian Institute of Information Technology, Raichur**  
-🎓 B.Tech in Computer Science  
-📊 CGPA: 8.31/10  
-📅 2021 – 2025
+- B.Tech in Computer Science  
+- CGPA: 8.31/10  
+- 2021 – 2025
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ class Engineer:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -116,9 +116,9 @@ class Engineer:
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔧 Data Engineering Intern — R&D
+### Data Engineering Intern — R&D
 **Luminous Power Technologies (Schneider Electric Group)** | Feb 2025 – Present
 
 ```yaml
@@ -148,92 +148,92 @@ Cloud Services:
   - Impact: 78% lower latency, 88% faster responses, 30% cost savings, 7% higher satisfaction (10K+ users)
 ```
 
-### 💻 Freelance Software Development Engineer
+### Freelance Software Development Engineer
 **Neocfo.io** | Feb 2025 – Apr 2025
 
-- 🤖 Built **multi-agent backend** using **LangGraph** and **Amazon Lex** for natural-language legal analysis
-- ⚡ Handled **2,000+ daily requests** for legal clients
-- 💰 Migrated AWS Lambda → EC2, achieving **40% cost reduction** while maintaining availability
-- 🔍 Implemented ML pipelines for legal document analysis and natural-language querying
+- Built **multi-agent backend** using **LangGraph** and **Amazon Lex** for natural-language legal analysis
+- Handled **2,000+ daily requests** for legal clients
+- Migrated AWS Lambda → EC2, achieving **40% cost reduction** while maintaining availability
+- Implemented ML pipelines for legal document analysis and natural-language querying
 
-### ⚙️ Data Engineer & Applied Sciences Trainee
+### Data Engineer & Applied Sciences Trainee
 **Bosch Global Software Technologies** | Mar 2024 – Feb 2025
 
-- 🌡️ Trained **quantized & pruned TinyML models** on **300+ GB IoT sensor data** (HVAC systems)
-- 💡 Delivered **15.5% energy savings** with statistical significance
-- 🏥 Built **containerized distributed backend** for multimodal diagnostic platform
-- 🎯 Achieved **96.8% diagnostic accuracy** on **500+ FNAC images**
-- 🔧 Engineered **fault-tolerant systems** for **STM32 microcontrollers** with real-time guarantees
-- ☁️ Deployed services on **AWS** (S3, Lambda, EC2) with containerized workloads and autoscaling
+- Trained **quantized & pruned TinyML models** on **300+ GB IoT sensor data** (HVAC systems)
+- Delivered **15.5% energy savings** with statistical significance
+- Built **containerized distributed backend** for multimodal diagnostic platform
+- Achieved **96.8% diagnostic accuracy** on **500+ FNAC images**
+- Engineered **fault-tolerant systems** for **STM32 microcontrollers** with real-time guarantees
+- Deployed services on **AWS** (S3, Lambda, EC2) with containerized workloads and autoscaling
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📦 [Dorky](https://www.npmjs.com/package/pydorky) - Open-source Artifact Storage Utility
+### [Dorky](https://www.npmjs.com/package/pydorky) - Open-source Artifact Storage Utility
 [![npm](https://img.shields.io/badge/npm-pydorky-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/pydorky)
 [![PyPI](https://img.shields.io/badge/PyPI-pydorky-3776AB?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/pydorky/)
 
 Open-source **npm** and **PyPI** package for storing and sharing non-code artifacts outside version control. Replaces ad-hoc sharing across chat tools and personal drives.
 
 **Key Features:**
-- 🔒 Simple, auditable storage layer with stable identifiers
-- 📝 Metadata support and idempotent operations
-- 🌊 Streaming-safe APIs
-- ☁️ Integrates with cloud object storage and existing IAM
+- Simple, auditable storage layer with stable identifiers
+- Metadata support and idempotent operations
+- Streaming-safe APIs
+- Integrates with cloud object storage and existing IAM
 
 ---
 
-### 🤖 Retail Automation System
+### Retail Automation System
 **Flipkart Grid 6.0 - Level 2 Finalist**
 
 Hybrid **edge-cloud system** for automated product detection using **PyTorch** and **Qwen-VL2-2B**.
 
 **Achievements:**
-- ✅ **>95% detection accuracy**
-- ⚡ **<1s inference latency**
-- 🐳 **Docker-based microservices** architecture
+- **>95% detection accuracy**
+- **<1s inference latency**
+- **Docker-based microservices** architecture
 
 ---
 
-### ☀️ SolarWise AI Energy Optimization Platform
+### SolarWise AI Energy Optimization Platform
 **Luminous TechnoX - First Runner-Up**
 
 IoT-driven energy optimization platform with **LSTM-based tariff prediction** and **MILP-based scheduling**.
 
 **Results:**
-- 💰 **30% energy savings**
-- 🔄 Automated pipelines and monitoring
-- ☁️ Built on **AWS IoT, Lambda, S3**
+- **30% energy savings**
+- Automated pipelines and monitoring
+- Built on **AWS IoT, Lambda, S3**
 
 ---
 
-## 📚 Publications
+## Publications
 
-### 🏥 [AI-Enhanced Breast Cancer Diagnosis](https://doi.org/your-paper-link)
+### [AI-Enhanced Breast Cancer Diagnosis](https://doi.org/your-paper-link)
 **2025** | Multimodal imaging and FNAC
 
 Multimodal system combining mammography and FNAC to improve diagnostic yield.
 
 ---
 
-### 🤖 [Agentic AI-Driven Cloud-Agnostic Pipeline for Scalable Training and Edge Deployment](https://doi.org/your-paper-link)
+### [Agentic AI-Driven Cloud-Agnostic Pipeline for Scalable Training and Edge Deployment](https://doi.org/your-paper-link)
 **2025** | MLOps & Edge Computing
 
 Pipeline design for scalable model training, edge packaging, and automated deployment.
 
 ---
 
-### ⛓️ [Blockchain is All You Need: Tamper-Resistant Collaborative ML](https://doi.org/your-paper-link)
+### [Blockchain is All You Need: Tamper-Resistant Collaborative ML](https://doi.org/your-paper-link)
 **2025** | AI Security
 
 Architected a tamper-resistant protocol for collaborative model updates using blockchain primitives.
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
-### 🥇 Competition Achievements
+### Competition Achievements
 ![Meta Pragati](https://img.shields.io/badge/Meta_Pragati_AI_Hackathon-Top_50-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 ![Amazon ML](https://img.shields.io/badge/Amazon_ML_Challenge-Top_84%2F74,830-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Flipkart Grid](https://img.shields.io/badge/Flipkart_Grid_6.0-Level_2_Finalist-FFC700?style=for-the-badge&logo=flipkart&logoColor=white)
@@ -242,7 +242,7 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 
 
 
-### 📜 Professional Certifications
+### Professional Certifications
 ![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt-00C853?style=for-the-badge&logo=six-sigma&logoColor=white)
@@ -251,7 +251,7 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -265,17 +265,17 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-prathamjain.in-4285F4?style=for-the-badge)](https://prathamjain.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prathamjain.in-4285F4?style=for-the-badge)](https://prathamjain.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratham_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-jain-56682620a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pratham--Jain--3903-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratham-Jain-3903)
 [![Email](https://img.shields.io/badge/Email-prathamjain3903@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamjain3903@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/cs21b10211)
 
-📍 **Gurugram, India** | 📱 **+91 93019 90411**
+**Gurugram, India** | **+91 93019 90411**
 
 </div>
 
@@ -283,7 +283,7 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 
 <div align="center">
 
-### 💡 "Building scalable systems that move data from noise to insights"
+### "Building scalable systems that move data from noise to insights"
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
