@@ -240,11 +240,7 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 ![Numerai](https://img.shields.io/badge/Numerai-Consistent_Top_8%25-21D789?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Luminous TechnoX](https://img.shields.io/badge/Luminous_TechnoX-Runner_Up-FF6B00?style=for-the-badge&logo=lightning&logoColor=white)
 
-- 🏅 **Meta Pragati AI Hackathon 2025** — Top 50 Finalist
-- 🥈 **Amazon ML Challenge 2024** — Ranked top 84 of 74,830 participants
-- 🤖 **Flipkart Grid 6.0** — Level 2 Finalist
-- 📊 **Numerai** — Consistent Top 8% performer
-- ⚡ **Luminous TechnoX** — First Runner-Up
+
 
 ### 📜 Professional Certifications
 ![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -252,10 +248,6 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt-00C853?style=for-the-badge&logo=six-sigma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API_Test_Automation-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- ☁️ **AWS Certified Cloud Practitioner**
-- 📊 **Google Data Analytics** (Coursera)
-- 🎯 **Lean Six Sigma Green Belt** (TUF)
-- 🔧 **Postman API Test Automation Badge**
 
 ---
 
