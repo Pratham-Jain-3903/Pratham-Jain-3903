@@ -2,7 +2,7 @@
 
 # Pratham Jain
 
-### Backend Engineer • Data Systems Architect • AI/ML Engineer
+### Data Engineer • Backend Enginer • AI/ML Engineer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prathamjain.in-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prathamjain.in/)
 [![Email](https://img.shields.io/badge/Email-prathamjain3903-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamjain3903@gmail.com)
