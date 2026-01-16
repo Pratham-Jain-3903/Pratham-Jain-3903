@@ -121,7 +121,6 @@ class Engineer:
 ### Data Engineering Intern — R&D
 **Luminous Power Technologies (Schneider Electric Group)** | Feb 2025 – Present
 
-```yaml
 Infrastructure Optimization:
   - Migration: Java 8 cron → Azure Data Factory + Azure Batch ETL
   - Performance: 14× faster queries, 98% cost reduction
@@ -146,7 +145,6 @@ Cloud Services:
   - Deployed: Adaptive-agent & LLM-backed services on AKS
   - Features: Redis caching, idempotent workflows
   - Impact: 78% lower latency, 88% faster responses, 30% cost savings, 7% higher satisfaction (10K+ users)
-```
 
 ### Freelance Software Development Engineer
 **Neocfo.io** | Feb 2025 – Apr 2025
@@ -253,15 +251,17 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham-Jain-3903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratham-Jain-3903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Jain-3903&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA116&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Jain-3903&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA116&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-Jain-3903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-Jain-3903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
 
 ---
 
