@@ -252,7 +252,7 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham-Jain-3903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF" />
+  <img src="https://github-readme-stats.herokuapp.com/api?username=Pratham-Jain-3903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
 </p>
 
 <p align="center">
@@ -260,10 +260,11 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-Jain-3903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Pratham-Jain-3903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
 ---
+
 
 ## Connect With Me
 
