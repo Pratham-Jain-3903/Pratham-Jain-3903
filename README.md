@@ -2,7 +2,7 @@
 
 # Pratham Jain
 
-### Data Engineer • Backend Enginer • AI/ML Engineer 
+### Quant Developer • Market Data Engineer • C++ • Quant Research • ML 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prathamjain.in-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prathamjain.in/)
 [![Email](https://img.shields.io/badge/Email-prathamjain3903-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamjain3903@gmail.com)
@@ -17,23 +17,42 @@
 
 ## About Me
 
-Backend systems engineer specializing in **distributed data platforms**, **cloud-native architectures**, and **production ML systems**. I build scalable services that process millions of events, optimize infrastructure costs, and ship reliable software. Published researcher in AI security and collaborative machine learning.
+Quant developer on an Indian derivatives desk. I build **low-latency market-data feeds**, **C++ risk systems**, and the **tick-level data platforms** that quant research and backtests run on — NIFTY/SENSEX options, futures, Greeks and order-book depth. I care about two numbers: how fast the tick arrives, and whether it's right.
+
+Background in **data engineering**, **cloud**, **ML and TinyML**, and published research in AI security and collaborative machine learning.
 
 ```python
 class Engineer:
     def __init__(self):
         self.name = "Pratham Jain"
-        self.role = "Backend Engineer | Data Platform Architect"
-        self.location = "Gurugram, India"
-        self.focus = ["Distributed Systems", "Data Engineering", "MLOps"]
+        self.role = "Quant Developer | Market Data Engineer"
+        self.location = "Mumbai, India"
+        self.focus = ["Low-Latency Market Data", "C++ Trading Systems", "kdb+/q", "Redis", "Quant Research", "Data Engineering", "ML / TinyML"]
         
     def current_work(self):
         return {
-            "company": "Luminous Power Technologies (Schneider Electric)",
-            "building": ["Real-time IoT data pipelines", "ML-powered analytics", "Cloud-native microservices"],
-            "impact": ["14x query performance", "98% cost reduction", "100K+ users scaled"]
+            "company": "Qode Invest (Technology - Derivatives)",
+            "building": ["Real-time NSE/BSE market-data feeds", "C++ risk dashboard backend", "Backtesting data pipelines"],
+            "impact": ["14x lower p99 feed latency", "0 dropped ticks in live capture", "4.5M-decision full-day replay, 0 diffs"]
         }
 ```
+
+### Impact at a glance
+
+| Metric | Result |
+|---|---|
+| Live feed p99 latency | **35 ms → 2.5 ms** (14x), 0 dropped ticks |
+| Full-day replay | **4.5M decisions, 182K candles, 0 differences** |
+| Backtest store migration | **123 / 123 strategies identical** on DuckLake |
+| Vendor tick arrival | first on **97%** of SENSEX and **82%** of NIFTY option trades |
+| Options Greeks history | **234M rows**, back to 2018 |
+| Cloud query cost (Luminous) | **98% lower**, 14x faster |
+
+### Currently
+
+- Moving a live risk dashboard from Python to **C++20 / Drogon**
+- Building a **lock-free order book and tick queue in C++**, with p50/p99 numbers in the open
+- MBA at **IIM Visakhapatnam** (PGPMCI 2026–28) alongside full-time work
 
 ---
 
@@ -46,7 +65,7 @@ class Engineer:
 **Indian Institute of Management Vishakhapatnam**  
 - Masters of Business Administration (PGPMCI)  
 - SGPA: 4.0/4.0  
-- 2025 – 2027
+- 2026 – 2028
 
 </td>
 <td width="50%">
@@ -69,12 +88,28 @@ class Engineer:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Quant & Market Data
+![Derivatives](https://img.shields.io/badge/NSE%2FBSE_Derivatives-0B3D91?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSocket_Feeds-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![kdb+/q](https://img.shields.io/badge/kdb%2B%20%2F%20q-1E90FF?style=for-the-badge&logo=databricks&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![KeyDB](https://img.shields.io/badge/KeyDB-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Drogon](https://img.shields.io/badge/Drogon_(C++)-2C3E50?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Tick stores:** kdb+/q time-series • Redis / KeyDB live state and pub-sub  
+**Market data:** tick capture • OHLC candle building • 5-level order-book depth • vendor reconciliation • replay/backtest certification  
+**Risk & research:** VaR / stress VaR • MTM • options Greeks • slippage • backtesting pipelines • p99 latency profiling
 
 ### Big Data & Analytics
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![DuckLake](https://img.shields.io/badge/DuckLake-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![QuestDB](https://img.shields.io/badge/QuestDB-A23154?style=for-the-badge&logo=questdb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PyArrow](https://img.shields.io/badge/PyArrow-FF6600?style=for-the-badge&logo=apache&logoColor=white)
 ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
@@ -107,6 +142,7 @@ class Engineer:
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Amazon Lex](https://img.shields.io/badge/Amazon_Lex-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Systems & Tools
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -118,8 +154,28 @@ class Engineer:
 
 ## Professional Experience
 
+### Data Analyst — Technology, Derivatives (Quant Dev)
+**Qode Invest, Mumbai** | Mar 2026 – Present
+
+Real-Time Market Data:
+  - Built and validated live websocket market-data feeds for NIFTY and SENSEX derivatives
+  - Performance: p99 latency 35 ms → 2.5 ms by splitting instruments into separate processes, 0 dropped ticks
+  - Data quality: four-way candle reconciliation across vendors; full-day replay of 4.5M decisions with 0 differences
+
+Risk Systems:
+  - Migrating the live risk dashboard backend from Python to C++20 / Drogon: live health pulses, stress VaR alerts, per-basket MTM
+  - Reviewed a C++ WebSocket POC: caught a broadcast race, a null-connection crash and missing auth
+
+Backtesting Data Platform:
+  - Extended NIFTY options Greeks back to 2018 (234M rows); holiday-aware backtest scheduling
+  - Led the backtest-store evaluation: DuckDB vs DuckLake vs Quack vs QuestDB vs ClickHouse (plus kdb-x and Postgres on paper), scored on 11 weighted criteria; QuestDB and ClickHouse passed correctness but missed latency, DuckLake + Parquet won (8.80 / 10)
+  - Migrated backtests to DuckLake with full historical parity: 123 of 123 strategies identical
+  - MCX contract stack: 29 symbols, 9,982 expiries, SPAN margins and an order gate for the backtester
+  - Proved vendor tick arrival order: first on 97% of SENSEX and 82% of NIFTY option trades
+  - Server capacity and retention: ~770 GB reclaimed across research storage
+
 ### Data Engineering Intern — R&D
-**Luminous Power Technologies (Schneider Electric Group)** | Feb 2025 – Present
+**Luminous Power Technologies (Schneider Electric Group)** | Feb 2025 – Mar 2026
 
 Infrastructure Optimization:
   - Migration: Java 8 cron → Azure Data Factory + Azure Batch ETL
@@ -208,21 +264,21 @@ IoT-driven energy optimization platform with **LSTM-based tariff prediction** an
 
 ## Publications
 
-### [AI-Enhanced Breast Cancer Diagnosis](https://doi.org/your-paper-link)
+### AI-Enhanced Breast Cancer Diagnosis
 **2025** | Multimodal imaging and FNAC
 
 Multimodal system combining mammography and FNAC to improve diagnostic yield.
 
 ---
 
-### [Agentic AI-Driven Cloud-Agnostic Pipeline for Scalable Training and Edge Deployment](https://doi.org/your-paper-link)
+### Agentic AI-Driven Cloud-Agnostic Pipeline for Scalable Training and Edge Deployment
 **2025** | MLOps & Edge Computing
 
 Pipeline design for scalable model training, edge packaging, and automated deployment.
 
 ---
 
-### [Blockchain is All You Need: Tamper-Resistant Collaborative ML](https://doi.org/your-paper-link)
+### Blockchain is All You Need: Tamper-Resistant Collaborative ML
 **2025** | AI Security
 
 Architected a tamper-resistant protocol for collaborative model updates using blockchain primitives.
@@ -252,15 +308,15 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.herokuapp.com/api?username=Pratham-Jain-3903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham-Jain-3903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Jain-3903&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA116&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" />
+  <img src="https://streak-stats.demolab.com/?user=Pratham-Jain-3903&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA116&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Pratham-Jain-3903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-Jain-3903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
 ---
@@ -276,7 +332,7 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 [![Email](https://img.shields.io/badge/Email-prathamjain3903@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamjain3903@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/cs21b10211)
 
-**Gurugram, India** | **+91 93019 90411**
+**Mumbai, India** | **+91 93019 90411**
 
 </div>
 
@@ -284,7 +340,7 @@ Architected a tamper-resistant protocol for collaborative model updates using bl
 
 <div align="center">
 
-### "Building scalable systems that move data from noise to insights"
+### "From the first tick to trade-ready data, fast and correct."
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
